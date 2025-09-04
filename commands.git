@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "Initial Message"
+git branch -M main
+git remote add origin https://github.com/huzaifa-amir/upload-from-local.git
+git push -u origin main
+
+// Once intilialized
+git add .
+git commit -m "Initial Message"
+git push -u origin main
